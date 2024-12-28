@@ -1,0 +1,13 @@
+npm int
+npm i express mongoose express-session ejs multer dotenv
+
+(The installed dependencies include dotenv for environment variable management, ejs for templating,
+express for server framework, express-session for session handling,
+mongoose for MongoDB interaction, and multer for file uploads.)
+
+npm i -D nodemon
+it install live srver
+
+MongoDB
+JwyGDUUAefdbS2iA
+mongodb+srv://jahid82:<db_password>@crud01.i6xl7.mongodb.net/?retryWrites=true&w=majority&appName=CRUD01
